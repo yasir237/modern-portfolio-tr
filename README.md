@@ -15,7 +15,6 @@ Modern, yüksek performanslı ve ölçeklenebilir bir geliştirici portfolyo uyg
 
 - ⚡ Next.js App Router mimarisi
 - 🌍 Çoklu dil desteği (i18n)
-
 - 🧩 JSON tabanlı blok içerik sistemi
 - 🚀 SEO uyumlu dinamik route yapısı
 - ♻️ Modüler ve yeniden kullanılabilir component mimarisi
