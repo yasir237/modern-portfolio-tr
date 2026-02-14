@@ -1,2 +1,129 @@
-# modern-portfolio-tr
+# Modern Portfolio – Çok Dilli Geliştirici Portfolyo Altyapısı
 Modern, yüksek performanslı ve ölçeklenebilir bir geliştirici portfolyo uygulaması. Estetik tasarım, modüler mimari ve JSON tabanlı içerik yönetimini tek bir güçlü sistemde birleştirir.
+
+## Öne Çıkan Özellikler (Son Güncelleme: 2025)
+
+- ⚡ Next.js App Router mimarisi
+- 🌍 Çoklu dil desteği (i18n)
+- 🧩 JSON tabanlı blok içerik sistemi
+- 🚀 SEO uyumlu dinamik route yapısı
+- ♻️ Modüler ve yeniden kullanılabilir component mimarisi
+- 📱 %100 responsive tasarım
+- 🎯 Ürünleştirilebilir altyapı (Template olarak satışa uygun)
+- 🔄 Ölçeklenebilir proje yönetim sistemi
+
+## Modern Portfolio Nedir?
+Modern Portfolio; geliştiricilerin projelerini, teknik yetkinliklerini ve profesyonel deneyimlerini modern web standartlarına uygun şekilde sunabilmeleri için tasarlanmış gelişmiş bir portfolyo altyapısıdır.
+
+Bu proje yalnızca görsel bir vitrin değildir.
+Performans, SEO, modülerlik ve sürdürülebilirlik esas alınarak inşa edilmiştir.
+
+Altyapı, Next.js App Router mimarisi üzerine kurulmuştur ve modern web uygulama prensiplerini temel alır.
+
+## Mimari Özellikler
+### Next.js App Router Altyapısı
+
+- SEO uyumlu sayfa üretimi
+- Server & Client component desteği
+- Dinamik route yapısı
+- Yüksek performanslı render sistemi
+
+Her proje kendi URL yapısında ayrı bir detay sayfasına sahiptir.
+Bu yapı hem kullanıcı deneyimini hem de arama motoru performansını güçlendirir.
+
+## Çoklu Dil (Internationalization – i18n)
+
+Sistem çok dilli yapı üzerine tasarlanmıştır.
+
+* Her dil için ayrı içerik dosyası
+* Dinamik dil route sistemi
+* Yeni dil eklemek için yalnızca yeni bir içerik dosyası oluşturmak yeterlidir
+
+Kod tarafında değişiklik yapmadan dil genişletmesi mümkündür.
+
+## JSON Tabanlı Proje Yönetimi
+
+Her proje bağımsız bir JSON dosyası olarak sisteme eklenir.
+
+* Sınırsız proje desteği
+* Kod değiştirmeden içerik ekleme
+* Blok tabanlı dinamik render sistemi
+* İçerik tipine göre otomatik bileşen eşleştirme
+
+Bu yapı projeyi teknik bilgi gerektirmeden yönetilebilir hale getirir.
+
+# Desteklenen İçerik Blokları
+
+Sistem `contentBlocks` yapısı üzerinden çalışır.
+
+### Type 0 — Metin Bloğu
+
+Başlık, alt başlık ve detaylı açıklama içerikleri.
+
+### Type 1 — Görsel
+
+Tekli görsel ve açıklama alanı.
+
+### Type 2 — Video
+
+Poster destekli video sunumu.
+
+### Type 3 — Galeri
+
+Çoklu görsel ve açıklama desteği.
+
+### Type 4 — Çoklu Kod / İçerik
+
+Tab yapısında birden fazla kod veya metin bloğu gösterimi.
+
+Bu yapı sayesinde portfolyo hem teknik hem görsel olarak zengin içerik sunabilir.
+
+# Modüler Component Mimarisi
+
+Tüm bölümler bağımsız ve yeniden kullanılabilir bileşenler halinde tasarlanmıştır.
+
+* Hero
+* İstatistikler
+* Hizmetler
+* Projeler
+* Proje Detay Sayfası
+* Deneyim & Eğitim
+* Yetenekler
+* Sertifikalar
+* İletişim
+
+Bu mimari:
+
+✔ Kolay genişletilebilir
+✔ Sürdürülebilir
+✔ Temiz kod organizasyonu sağlar
+
+# Performans ve Kullanıcı Deneyimi
+
+* Minimal ve modern tasarım dili
+* Akıcı animasyonlar
+* Tutarlı tipografi
+* Responsive yapı
+* Mobil, tablet ve masaüstü uyumluluk
+
+Amaç:
+Ziyaretçiye sade, güven veren ve profesyonel bir dijital deneyim sunmak.
+
+
+# Teknik Altyapı
+
+* Framework: **Next.js (App Router)**
+* Dil: **TypeScript**
+* Stil: **Tailwind CSS**
+* Veri Yapısı: JSON tabanlı içerik yönetimi
+* Routing: Dinamik proje route sistemi
+
+# Kimler İçin Uygun?
+
+* Profesyonel geliştiriciler
+* Freelance yazılımcılar
+* Yazılım öğrencileri
+* Kişisel markasını güçlendirmek isteyen teknik profesyoneller
+* Portfolyosunu ürünleştirmek isteyen geliştiriciler
+
+
