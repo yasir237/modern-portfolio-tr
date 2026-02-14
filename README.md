@@ -99,26 +99,6 @@ Bu yapı sayesinde portfolyo hem teknik hem görsel olarak zengin içerik sunabi
 
 <img width="896" height="1200" alt="Gemini_Generated_Image_meb4o1meb4o1meb4 (1)" src="https://github.com/user-attachments/assets/b977d734-f703-47e7-a451-f272a346a5e3" />
 
-# Modüler Component Mimarisi
-
-Tüm bölümler bağımsız ve yeniden kullanılabilir bileşenler halinde tasarlanmıştır.
-
-* Hero
-* İstatistikler
-* Hizmetler
-* Projeler
-* Proje Detay Sayfası
-* Deneyim & Eğitim
-* Yetenekler
-* Sertifikalar
-* İletişim
-
-Bu mimari:
-
-✔ Kolay genişletilebilir
-✔ Sürdürülebilir
-✔ Temiz kod organizasyonu sağlar
-
 # Performans ve Kullanıcı Deneyimi
 
 * Minimal ve modern tasarım dili
