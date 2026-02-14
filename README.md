@@ -7,6 +7,7 @@ Modern, yüksek performanslı ve ölçeklenebilir bir geliştirici portfolyo uyg
   </a>
 </p>
 
+## Ana Sayfa
 <img width="1907" height="909" alt="image" src="https://github.com/user-attachments/assets/9a44a52a-0870-4111-925d-275ed3cc8721" />
 <img width="1911" height="816" alt="image" src="https://github.com/user-attachments/assets/173026ed-45b9-4395-958b-6541b270d07e" />
 <img width="1909" height="894" alt="image" src="https://github.com/user-attachments/assets/af13c0c1-f702-43b2-8db0-b2e22888e53c" />
@@ -24,6 +25,13 @@ Modern, yüksek performanslı ve ölçeklenebilir bir geliştirici portfolyo uyg
 <img width="1911" height="874" alt="image" src="https://github.com/user-attachments/assets/1ceec963-62c7-4b29-a056-3145c4b6c979" />
 <img width="1908" height="286" alt="image" src="https://github.com/user-attachments/assets/7a8abbf6-1af2-4d5f-9add-7c6557d6e822" />
 
+## Projeler
+<img width="1908" height="900" alt="image" src="https://github.com/user-attachments/assets/9d1a0905-7773-4e69-940b-4b0f8ea15e91" />
+
+## Proje Detayları
+<img width="1909" height="908" alt="image" src="https://github.com/user-attachments/assets/97fd5c0b-b48c-422e-889f-7e3174963515" />
+<img width="1910" height="881" alt="image" src="https://github.com/user-attachments/assets/8d5282e6-0c7c-414b-aa42-20d41f7d91c9" />
+<img width="1907" height="890" alt="image" src="https://github.com/user-attachments/assets/ea0f57e1-b8bc-45d1-8355-a58a86b67aee" />
 
 
 
