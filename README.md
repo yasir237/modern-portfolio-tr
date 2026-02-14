@@ -3,6 +3,13 @@ Modern, yüksek performanslı ve ölçeklenebilir bir geliştirici portfolyo uyg
 
 <img width="1907" height="909" alt="image" src="https://github.com/user-attachments/assets/9a44a52a-0870-4111-925d-275ed3cc8721" />
 
+<p align="center">
+  <a href="https://yasiralrawi.netlify.app/tr">
+    <img src="https://img.shields.io/badge/Canlı_Demo-Modern_Portfolio-8750f7?style=for-the-badge" />
+  </a>
+</p>
+
+
 
 ## Öne Çıkan Özellikler (Son Güncelleme: 2025)
 
@@ -17,8 +24,11 @@ Modern, yüksek performanslı ve ölçeklenebilir bir geliştirici portfolyo uyg
 - 🔄 Ölçeklenebilir proje yönetim sistemi
 
 
-<img width="1696" height="608" alt="Dokümantasyon Sayfasi" src="https://github.com/user-attachments/assets/b4fdbcdc-85d5-46b1-8428-1e1188d85e0f" />
+<img width="1696" height="608" alt="Dokümantasyon Sayfası" src="https://github.com/user-attachments/assets/a882fabc-1632-47c3-b736-60fe8d463978" />
 
+<p align="center">
+  Dokümantasyon sayfası otomatik olarak açılmadıysa <a href="https://senin-linkin.com">buradan</a> erişebilirsiniz
+</p>
 
 
 ## Modern Portfolio Nedir?
@@ -86,6 +96,8 @@ Poster destekli video sunumu.
 Tab yapısında birden fazla kod veya metin bloğu gösterimi.
 
 Bu yapı sayesinde portfolyo hem teknik hem görsel olarak zengin içerik sunabilir.
+
+<img width="896" height="1200" alt="Gemini_Generated_Image_meb4o1meb4o1meb4 (1)" src="https://github.com/user-attachments/assets/b977d734-f703-47e7-a451-f272a346a5e3" />
 
 # Modüler Component Mimarisi
 
