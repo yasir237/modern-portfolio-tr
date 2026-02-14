@@ -16,6 +16,9 @@ Modern, yüksek performanslı ve ölçeklenebilir bir geliştirici portfolyo uyg
 - 🎯 Ürünleştirilebilir altyapı (Template olarak satışa uygun)
 - 🔄 Ölçeklenebilir proje yönetim sistemi
 
+<img width="1696" height="608" alt="Dokümantasyon (1)" src="https://github.com/user-attachments/assets/06eb2a01-052e-4c4d-a079-52ed457d824e" />
+
+
 ## Modern Portfolio Nedir?
 Modern Portfolio; geliştiricilerin projelerini, teknik yetkinliklerini ve profesyonel deneyimlerini modern web standartlarına uygun şekilde sunabilmeleri için tasarlanmış gelişmiş bir portfolyo altyapısıdır.
 
