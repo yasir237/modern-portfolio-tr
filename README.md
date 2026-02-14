@@ -1,10 +1,14 @@
 # Modern Portfolio – Çok Dilli Geliştirici Portfolyo Altyapısı
 Modern, yüksek performanslı ve ölçeklenebilir bir geliştirici portfolyo uygulaması. Estetik tasarım, modüler mimari ve JSON tabanlı içerik yönetimini tek bir güçlü sistemde birleştirir.
 
+<img width="1907" height="909" alt="image" src="https://github.com/user-attachments/assets/9a44a52a-0870-4111-925d-275ed3cc8721" />
+
+
 ## Öne Çıkan Özellikler (Son Güncelleme: 2025)
 
 - ⚡ Next.js App Router mimarisi
 - 🌍 Çoklu dil desteği (i18n)
+
 - 🧩 JSON tabanlı blok içerik sistemi
 - 🚀 SEO uyumlu dinamik route yapısı
 - ♻️ Modüler ve yeniden kullanılabilir component mimarisi
