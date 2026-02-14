@@ -1,13 +1,29 @@
 # Modern Portfolio – Çok Dilli Geliştirici Portfolyo Altyapısı
 Modern, yüksek performanslı ve ölçeklenebilir bir geliştirici portfolyo uygulaması. Estetik tasarım, modüler mimari ve JSON tabanlı içerik yönetimini tek bir güçlü sistemde birleştirir.
 
-<img width="1907" height="909" alt="image" src="https://github.com/user-attachments/assets/9a44a52a-0870-4111-925d-275ed3cc8721" />
-
 <p align="center">
   <a href="https://yasiralrawi.netlify.app/tr">
     <img src="https://img.shields.io/badge/Canlı_Demo-Modern_Portfolio-8750f7?style=for-the-badge" />
   </a>
 </p>
+
+<img width="1907" height="909" alt="image" src="https://github.com/user-attachments/assets/9a44a52a-0870-4111-925d-275ed3cc8721" />
+<img width="1911" height="816" alt="image" src="https://github.com/user-attachments/assets/173026ed-45b9-4395-958b-6541b270d07e" />
+<img width="1909" height="894" alt="image" src="https://github.com/user-attachments/assets/af13c0c1-f702-43b2-8db0-b2e22888e53c" />
+<img width="1907" height="869" alt="image" src="https://github.com/user-attachments/assets/36063fa3-3617-4ea1-95e7-5f00ebb2000f" />
+<img width="1907" height="855" alt="image" src="https://github.com/user-attachments/assets/fb7db8f7-9c67-461a-89c1-d2b2d99fe065" />
+<img width="1906" height="905" alt="image" src="https://github.com/user-attachments/assets/23b0052a-cf46-43da-a781-98d7a9adc737" />
+<img width="1909" height="907" alt="image" src="https://github.com/user-attachments/assets/80bd1347-a91e-475c-9d5b-1dff4b24877d" />
+<img width="1910" height="789" alt="image" src="https://github.com/user-attachments/assets/0e7b338b-ec48-4a1d-8af7-f9db276e55da" />
+<img width="1906" height="830" alt="image" src="https://github.com/user-attachments/assets/4c114dde-75d6-47bc-b357-7045494a6e25" />
+<img width="1907" height="904" alt="image" src="https://github.com/user-attachments/assets/ea3f82e5-bc82-457f-b7ec-fe731b84c035" />
+<img width="1908" height="846" alt="image" src="https://github.com/user-attachments/assets/902feaac-1a5c-4a08-a1c2-8f7955cb8d4e" />
+<img width="1908" height="838" alt="image" src="https://github.com/user-attachments/assets/66139203-4b81-4157-a4fd-348888eb63b7" />
+<img width="1907" height="767" alt="image" src="https://github.com/user-attachments/assets/159fc7df-79dd-409e-837a-d5744df2c27d" />
+<img width="1911" height="655" alt="image" src="https://github.com/user-attachments/assets/4ac9d84d-b37f-4650-a7c8-dd59d97fbe1c" />
+<img width="1911" height="874" alt="image" src="https://github.com/user-attachments/assets/1ceec963-62c7-4b29-a056-3145c4b6c979" />
+<img width="1908" height="286" alt="image" src="https://github.com/user-attachments/assets/7a8abbf6-1af2-4d5f-9add-7c6557d6e822" />
+
 
 
 
