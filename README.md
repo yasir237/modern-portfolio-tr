@@ -46,11 +46,12 @@ Modern, yüksek performanslı ve ölçeklenebilir bir geliştirici portfolyo uyg
 - 🎯 Ürünleştirilebilir altyapı (Template olarak satışa uygun)
 - 🔄 Ölçeklenebilir proje yönetim sistemi
 
-
-<img width="1696" height="608" alt="Dokümantasyon Sayfası" src="https://github.com/user-attachments/assets/a882fabc-1632-47c3-b736-60fe8d463978" />
+<a href="https://github.com/yasir237/modern-portfolio-dokumantasyon-tr" >
+  <img width="1696" height="608" alt="Dokümantasyon Sayfası" src="https://github.com/user-attachments/assets/a882fabc-1632-47c3-b736-60fe8d463978" />
+</a>
 
 <p align="center">
-  Dokümantasyon sayfası otomatik olarak açılmadıysa <a href="https://senin-linkin.com">buradan</a> erişebilirsiniz
+  Dokümantasyon sayfası açılmadıysa <a href="https://github.com/yasir237/modern-portfolio-dokumantasyon-tr">buradan</a> erişebilirsiniz
 </p>
 
 
@@ -150,4 +151,11 @@ Ziyaretçiye sade, güven veren ve profesyonel bir dijital deneyim sunmak.
 * Kişisel markasını güçlendirmek isteyen teknik profesyoneller
 * Portfolyosunu ürünleştirmek isteyen geliştiriciler
 
+<a href="https://github.com/yasir237/modern-portfolio-dokumantasyon-tr" >
+  <img width="1696" height="608" alt="Dokümantasyon Sayfası" src="https://github.com/user-attachments/assets/a882fabc-1632-47c3-b736-60fe8d463978" />
+</a>
+
+<p align="center">
+  Dokümantasyon sayfası açılmadıysa <a href="https://github.com/yasir237/modern-portfolio-dokumantasyon-tr">buradan</a> erişebilirsiniz
+</p>
 
