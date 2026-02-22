@@ -22,7 +22,7 @@ Modern, yüksek performanslı ve ölçeklenebilir bir geliştirici portfolyo uyg
 <img width="1908" height="838" alt="image" src="https://github.com/user-attachments/assets/66139203-4b81-4157-a4fd-348888eb63b7" />
 <img width="1907" height="767" alt="image" src="https://github.com/user-attachments/assets/159fc7df-79dd-409e-837a-d5744df2c27d" />
 <img width="1911" height="655" alt="image" src="https://github.com/user-attachments/assets/4ac9d84d-b37f-4650-a7c8-dd59d97fbe1c" />
-<img width="1911" height="874" alt="image" src="https://github.com/user-attachments/assets/1ceec963-62c7-4b29-a056-3145c4b6c979" />
+<img width="1911" height="823" alt="image" src="https://github.com/user-attachments/assets/1964fb97-1f2e-4e69-be20-d4318a64c2db" />
 <img width="1908" height="286" alt="image" src="https://github.com/user-attachments/assets/7a8abbf6-1af2-4d5f-9add-7c6557d6e822" />
 
 ## Projeler
