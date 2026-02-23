@@ -43,7 +43,6 @@ Modern, yüksek performanslı ve ölçeklenebilir bir geliştirici portfolyo uyg
 - 🚀 SEO uyumlu dinamik route yapısı
 - ♻️ Modüler ve yeniden kullanılabilir component mimarisi
 - 📱 %100 responsive tasarım
-- 🎯 Ürünleştirilebilir altyapı (Template olarak satışa uygun)
 - 🔄 Ölçeklenebilir proje yönetim sistemi
 
 <a href="https://github.com/yasir237/modern-portfolio-dokumantasyon-tr" >
